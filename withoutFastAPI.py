@@ -1,10 +1,13 @@
 from LocationManager import LocationManager
-
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel, Field
 
 
 
 def main():
-        
+
+
+    ##this part is for ordinary usage without Fast API
     manager = LocationManager()
 
     # Add points
@@ -33,6 +36,8 @@ def main():
     #     print(result)
     # else:
     #     print("Point not found")
+
+
 
 
 

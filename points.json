@@ -19,6 +19,26 @@
             "name": "1Berlin",
             "latitude": 52.52,
             "longitude": 13.405
+        },
+        {
+            "name": "string",
+            "latitude": -90.0,
+            "longitude": -180.0
+        },
+        {
+            "name": "tehtan12",
+            "latitude": -85.6,
+            "longitude": -105.2
+        },
+        {
+            "name": "اصفهان",
+            "latitude": 32.6546,
+            "longitude": 51.668
+        },
+        {
+            "name": "تبریز",
+            "latitude": 32.6546,
+            "longitude": 51.668
         }
     ]
 }
